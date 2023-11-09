@@ -53,7 +53,7 @@ const onClickHandler= ()=>{
 
  
  const  commentobj ={
-    id: comments.length,
+    id: comments.length+1,
     author: {
       name: "Andjela Dornik",
       "picture": ""
